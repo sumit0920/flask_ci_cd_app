@@ -1,7 +1,3 @@
-Here’s your **updated README** with a **Render deploy badge** and **corrected workflow section removed** (since you don’t have GitHub Actions yet). You can copy this directly into your `README.md`:
-
----
-
 # Flask CI/CD App
 
 A simple **Flask web application** with **CI/CD pipeline** integrated and deployed using [Render](https://render.com).
